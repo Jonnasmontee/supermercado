@@ -1,2 +1,2 @@
-# supermercado
+# supermercad
 Projeto integrador 
